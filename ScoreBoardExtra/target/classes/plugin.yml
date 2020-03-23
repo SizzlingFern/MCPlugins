@@ -1,0 +1,5 @@
+main: org.kehd.scoreboardextra.main.ScoreBoardExtraCore
+name: ScoreBoardExtra
+version: 1.0.1
+author: SizzlingFern
+api-version: 1.13

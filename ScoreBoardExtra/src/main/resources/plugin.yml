@@ -1,0 +1,5 @@
+main: ${main.class}
+name: ${project.name}
+version: ${project.version}
+author: SizzlingFern
+api-version: 1.13
